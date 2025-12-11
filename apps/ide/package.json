@@ -1,5 +1,5 @@
 {
-  "name": "relide",
+  "name": "@apps/relide",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -33,6 +33,5 @@
     "@types/bun": "catalog:",
     "tailwindcss": "catalog:",
     "tw-animate-css": "catalog:"
-  
   }
 }
